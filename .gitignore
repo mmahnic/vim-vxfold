@@ -1,0 +1,6 @@
+*.swp
+*.swi
+*.pyc
+*.bak
+doc/tags
+xdata/
